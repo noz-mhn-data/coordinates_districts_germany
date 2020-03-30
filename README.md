@@ -7,3 +7,5 @@ Decimal separator: Dot
 The latest administrive reform (Göttingen + Osterode) was added manually.
 
 Source of coordinates: https://public.opendatasoft.com/explore/dataset/landkreise-in-germany/export/
+
+For any comments please contact a "dot" behrend "ätt" noz "dot" de
